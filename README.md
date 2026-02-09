@@ -13,5 +13,7 @@
 ## リンク
 
 * [README](#lanade)
-* [rule](./rule/README.md)
+* [rule](rule/README.md)
+* [spec](spec/README.md)
+* [requirement](requirement/README.md)
 * [notion](https://www.notion.so/301d3b923881801ba3a8ff2adde51ff4)
